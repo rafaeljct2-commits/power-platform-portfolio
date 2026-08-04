@@ -21,7 +21,8 @@ This repository contains my learning journey, notes, certifications, and project
 
 ## Certifications
 - [ ] Microsoft Learn App Maker Career Path
-      ## Microsoft Learn Profile
+
+ ## Microsoft Learn Profile
 
 Follow my learning journey on Microsoft Learn:
 
