@@ -1,18 +1,23 @@
 # Power Platform Portfolio
 
-Repositório dedicado aos estudos e projetos desenvolvidos durante a trilha Microsoft Learn App Maker Career Path.
+This repository contains my learning journey, notes, certifications, and projects developed while studying Microsoft Power Platform.
 
-## Objetivos
-- Aprender Power Apps
-- Aprender Power Automate
-- Trabalhar com Dataverse
-- Criar soluções empresariais
-- Construir portfólio profissional
+## Goals
+- Learn Power Apps
+- Learn Power Automate
+- Work with Dataverse
+- Build business solutions
+- Create a professional portfolio
 
-## Projetos
-- [ ] Controle de Ativos de TI
-- [ ] Solicitação de Férias
-- [ ] Dashboard de Indicadores
-
-## Certificações e Cursos
+## Learning Path
 - [ ] App Maker Career Path
+- [ ] Power Apps Fundamentals
+- [ ] Power Automate Fundamentals
+
+## Projects
+- [ ] IT Asset Management
+- [ ] Leave Request App
+- [ ] Sales Dashboard
+
+## Certifications
+- [ ] Microsoft Learn App Maker Career Path
